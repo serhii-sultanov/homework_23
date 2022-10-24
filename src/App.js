@@ -1,9 +1,9 @@
-import imageList from "./components/imageList";
+import ImageList from "./components/ImageList";
 
 function App() {
   return (
     <>
-      <imageList />
+      <ImageList />
     </>
   );
 }
