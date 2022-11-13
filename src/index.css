@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.heading {
+  font-size: 48px;
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.image-box {
+  width: 500px;
+  margin: 20px;
+}
+
+.image {
+  width: 100%;
+}
+
+.btn {
+  margin: 0 auto 30px;
+  display: block;
+  padding: 15px 20px;
+  background-color: #24a0ed;
+  border-radius: 20px;
+  font-size: 24px;
+  color: white;
+  cursor: pointer;
+  border: none;
+}
