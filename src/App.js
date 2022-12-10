@@ -1,11 +1,7 @@
 import ImageList from "./components/ImageList";
 
 function App() {
-  return (
-    <>
-      <ImageList />
-    </>
-  );
+  return <ImageList />;
 }
 
 export default App;
